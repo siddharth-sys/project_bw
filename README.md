@@ -1,11 +1,13 @@
 # project_bw
 Build project 1
 * Web scrapping
-  Scrapping of 1000 books data is done through beautifulSoup library in python.
+  * Scrapping of 1000 books data is done through beautifulSoup library in python.
 * EDA
-  Exploratory data analysis is done. Cleaning of data with the help of pandas library. Data analysis is done using the matplot library in python.
+  * Exploratory data analysis is done.
+  * Cleaning of data with the help of pandas library.
+  * Data analysis is done using the matplot library in python.
 * MySQL
-  Some problem statements are solved using MYSQL like
+  * Some problem statements are solved using MYSQL like
    * Find the number of books available in stock.
    * List the top 5 most expensive books.
    * Find the average rating of books.
